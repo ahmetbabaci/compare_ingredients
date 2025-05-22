@@ -15,12 +15,7 @@ Run the script from the command line. You will be prompted to input ingredient l
 
 ```python ingredient_comparison.py```
 
-Then enter ingredients when prompted:
-
-```
-Enter ingredients for Product 1: water, glycerin, vitamin C, retinol
-Enter ingredients for Product 2: water, hyaluronic acid, vitamin C derivative, retinol acetate
-```
+Then enter product names and ingredients when prompted.
 
 The script will output:
 * A table showing shared and unique ingredients, along with their relative positions in each product.

@@ -33,12 +33,12 @@ print(f"Saving Product 2 as: '{product_2_name}'")
 # -------------------------------------------
 
 # Input ingredients for `Product 1`
-product_1_ingr_input = str(input(f"\nPlease list the ingredients for {product_1_name} seperated by commas:\n"))
+product_1_ingr_input = str(input(f"\nList the ingredients for {product_1_name} (comma-seperated):\n"))
 product_1_ingr_list = product_1_ingr_input.lower().replace(", ", ",").split(",")
 print(f"Confirming ingredients for {product_1_name} as:\n{product_1_ingr_list}")
 
 # Input ingredients for `Product 2`
-product_2_ingr_input = str(input(f"\nPlease list the ingredients for {product_2_name} seperated by commas:\n"))
+product_2_ingr_input = str(input(f"\nList the ingredients for {product_2_name} (comma-seperated):\n"))
 product_2_ingr_list = product_2_ingr_input.lower().replace(", ", ",").split(",")
 print(f"Confirming ingredients for {product_2_name} as:\n{product_2_ingr_list}")
 
